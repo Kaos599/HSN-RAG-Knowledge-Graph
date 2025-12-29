@@ -1,0 +1,25 @@
+# Core Data Processing & Visualization
+pandas
+pdfplumber
+networkx
+pyvis
+google-genai
+
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+
+# Vector Stores
+qdrant-client
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Jupyter Support
+pypdf
+nbformat
+ipykernel
+protobuf>=4.25.3
+grpcio>=1.62.1
